@@ -1,7 +1,8 @@
 {
 	// Mapped from https://www.typescriptlang.org/tsconfig
 	"compilerOptions": {
-		// Type Checking
+		
+	
 		"allowUnreachableCode": false,
 		"allowUnusedLabels": false,
 		"exactOptionalPropertyTypes": true,
